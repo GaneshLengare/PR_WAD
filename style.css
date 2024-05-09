@@ -1,0 +1,15 @@
+
+body {
+    background-color: #e6e8ea;
+    padding-top: 50px;
+  }
+  .container {
+    background-color: #b87614;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(221, 205, 33, 0.1);
+    padding: 30px;
+  }
+  h3 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
